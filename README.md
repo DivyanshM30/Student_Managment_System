@@ -41,3 +41,50 @@ The **Student Management System** is a Java-based console application designed t
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/student-management-system.git
+
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd student-management-system
+```
+
+3. Compile the Java files:
+
+```bash
+javac *.java
+```
+
+4. Run the application:
+
+```bash
+java Main
+```
+
+---
+
+## Sample Menu
+
+```
+Welcome to Student Management System
+
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Search Student
+6. Exit
+
+Enter your choice:
+```
+
+---
+
+
+## Author
+
+**Divyansh Mishra**
+
+GitHub: [https://github.com/DivyanshM30](https://github.com/DivyanshM30)
+
